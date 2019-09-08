@@ -1,3 +1,5 @@
+Play it now at : https://shashbhat.github.io/Browser-Number-Game/
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
